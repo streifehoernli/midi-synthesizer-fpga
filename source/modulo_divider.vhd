@@ -1,4 +1,18 @@
 -------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: modulo_divider
+-- Datum:       14.06.2020
+-------------------------------------------
+
+-------------------------------------------
 -- Block code:  modulo_divider.vhd
 -- History:     14.Nov.2012 - 1st version (dqtm)
 --                 <date> - <changes>  (<author>)
@@ -21,10 +35,10 @@ entity modulo_divider is
        );
 end modulo_divider;
 
--- Architecture Declaration 
+-- Architecture DeclarationÂ 
 -------------------------------------------
 architecture rtl of modulo_divider is
--- Signals & Constants Declaration 
+-- Signals & Constants DeclarationÂ 
 -------------------------------------------
   signal count, next_count : unsigned(width-1 downto 0) := (others => '0');  -- exception! Forcing to enable start without reset in simu
 
