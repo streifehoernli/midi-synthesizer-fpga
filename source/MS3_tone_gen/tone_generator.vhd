@@ -75,7 +75,7 @@ begin
   end process tone_sum;
   
 	calc_incr : process(all)
-	variable car_incr : std_logic_vector(25 downto 0);
+	variable car_incr : std_logic_vector(23 downto 0);
 	variable mod_incr : std_logic_vector(25 downto 0);
 	begin
 		For i IN 0 TO 9 LOOP
