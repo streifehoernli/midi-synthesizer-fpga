@@ -1,3 +1,16 @@
+-------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: i2c_slave_bfm
+-- Datum:       14.06.2020
+-------------------------------------------
 
 library ieee;
 use ieee.std_logic_1164.all;
