@@ -1,4 +1,18 @@
 -------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: baud_tick
+-- Datum:       14.06.2020
+-------------------------------------------
+
+-------------------------------------------
 -- Block code:  baud_tick.vhd
 -- Function: Generates a tick in the middle of each bit of a UART signal
 -------------------------------------------
