@@ -1,6 +1,19 @@
 -------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: visualisierung
+-- Datum:       14.06.2020
+-------------------------------------------
+
+-------------------------------------------
 -- Block code:  counter.vhd
--- History:     12.03.2020 - 1st version (bodenma2)
 -- Function: counter with generic width.
 -------------------------------------------
 

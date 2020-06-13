@@ -1,19 +1,17 @@
--------------------------------------------------------------------------------
--- Title      : i2s_master
--- Project    : 
--------------------------------------------------------------------------------
--- File       : i2s_master.vhd
--- Author     : Markus Bodenmann
--- Company    : 
--- Created    : 2020-03-12
--- Last update: 2020-03-12
--- Platform   : 
--- Standard   : VHDL'93/02
--------------------------------------------------------------------------------
--- Description: 
--------------------------------------------------------------------------------
--- Copyright (c) 2020 
--------------------------------------------------------------------------------
+-------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: i2s_master
+-- Datum:       14.06.2020
+-------------------------------------------
+
 
 library ieee;
 use ieee.std_logic_1164.all;

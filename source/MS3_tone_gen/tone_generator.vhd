@@ -1,4 +1,16 @@
 -------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: tone_generator
+-- Datum:       14.06.2020
+-------------------------------------------
 
 -------------------------------------------
 

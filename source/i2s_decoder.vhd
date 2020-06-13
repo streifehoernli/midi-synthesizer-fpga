@@ -1,6 +1,19 @@
 -------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: i2s_decoder
+-- Datum:       14.06.2020
+-------------------------------------------
+
+-------------------------------------------
 -- Block code:  i2s_decoder.vhd
--- History:     19.03.2020 - 1st version (bodenma2)
 -- Function:    i2s Master, listens to a counter and decides which register needs to be
 --				written to / read from.
 -------------------------------------------

@@ -1,3 +1,17 @@
+-------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: lcd_driver
+-- Datum:       14.06.2020
+-------------------------------------------
+
 -- LCD Driver Module for driving HD44780 Controller
 -- A. Greensted, July 2010
 -- H.Gelke, April 2013 : adapted for 32 characters (initially was 40 characters)

@@ -1,3 +1,17 @@
+-------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: tone_gen_pkg
+-- Datum:       14.06.2020
+-------------------------------------------
+
 -------------------------------------------------------------------------------
 -- Project     : audio_top
 -- Description : Constants and LUT for tone generation with DDS
