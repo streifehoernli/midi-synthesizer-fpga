@@ -1,4 +1,18 @@
 -------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: flanken_detect
+-- Datum:       14.06.2020
+-------------------------------------------
+
+-------------------------------------------
 -- Block code:  flanken_detect.vhd
 -- History: 	15.Nov.2017 - 1st version (dqtm)
 --                 <date> - <changes>  (<author>)
