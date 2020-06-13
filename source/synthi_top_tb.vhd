@@ -1,3 +1,17 @@
+-------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: synthi_top_tb
+-- Datum:       14.06.2020
+-------------------------------------------
+
 -------------------------------------------------------------------------------
 -- Title      : Testbench for design "synthi_top"
 -- Project    : 
