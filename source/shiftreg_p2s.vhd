@@ -1,3 +1,16 @@
+-------------------------------------------
+-- ZHAW School of Engineering
+-- Technikumstrasse 9
+-- 8401 Winterthur
+--
+-- Autoren:
+-- Beat Sturzenegger
+-- Markus Bodenmann
+-- Tharmelan Theivanesan
+--
+-- source name: shiftreg_p2s
+-- Datum:       14.06.2020
+-------------------------------------------
 
 -- Library & Use shiftregments
 -------------------------------------------
